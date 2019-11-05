@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,UACE,4BACF,CAEA,cACE,wBACF,CAEA,gBACE,wBACF,CAEA,KACE,sBACF","file":"main.4288bfd1.chunk.css","sourcesContent":[".classAge {\n  text-decoration: line-through;\n}\n\n.Person--male {\n  background-color: #57bb8a;\n}\n\n.Person--female {\n  background-color: #edd1db;\n}\n\n.age {\n  background-color: green;\n}\n"]}
